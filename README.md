@@ -2,6 +2,10 @@
 
 手写识别数字
 
+![](https://raw.githubusercontent.com/goldEli/handwrttenDigits/master/image/1.jpg)
+
+--------------
+
 ## Model
 
 生成手写识别模型
